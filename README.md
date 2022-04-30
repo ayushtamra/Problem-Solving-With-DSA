@@ -16,6 +16,6 @@ The problems solved here have a large number of approaches, are well documented 
 
 In most of the questions I have used a CPP code template which is competitive programming friendly and easy to undesrtand, it is very efficient in CP contests.
 
-Template Link: [myC++Template.cpp](./myC%2B%2BTemplate.cpp)
+> Template Link: [myC++Template.md](./myC%2B%2BTemplate.md)
 
 Though there are many good templates for Competitive programming but at the very beginning you can practice with this!
