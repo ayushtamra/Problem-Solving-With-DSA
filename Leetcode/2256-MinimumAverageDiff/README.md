@@ -1,5 +1,7 @@
 ## 2256. Minimum Average Difference
 
+<img src="https://img.shields.io/badge/Leetcode-Medium-orange" alt="GitHub badge" />
+
 Question link: https://leetcode.com/problems/minimum-average-difference/
 
 There are basically two approaches for the question
