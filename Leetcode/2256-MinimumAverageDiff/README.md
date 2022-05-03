@@ -1,5 +1,7 @@
 ## 2256. Minimum Average Difference
 
+Question link: https://leetcode.com/problems/minimum-average-difference/
+
 There are basically two approaches for the question
 
 [Approach-1(Brute Force):](Approach1-Brute.cpp)
