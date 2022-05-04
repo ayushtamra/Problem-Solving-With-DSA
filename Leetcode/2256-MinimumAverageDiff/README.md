@@ -31,6 +31,10 @@ Where,
 - After this the average is calculated (avg1 and avg2)
 - The absolute(using abs()) of the two averages for each index is compared and index with minimum average is returned.
 
+**Time complexity: O(N^2)**
+
+
+
 [Approach-2(Optimised):](Approach2-Optimised.cpp) - Using a sum array
 
 This is the second approach in which the vector is traversed to calculate the sum array which can be given by
@@ -40,3 +44,6 @@ This is the second approach in which the vector is traversed to calculate the su
 For getting sum of i+1 elements, which is required for calculating avg1, we will be using `sum[i+1]`.
 
 For getting sum of n-i-1 elements(remaining elements), which is required for calculating avg2, we will be using `sum[n] - sum[i+1]`
+
+
+**Time complexity: O(N)**
