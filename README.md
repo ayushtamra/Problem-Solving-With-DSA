@@ -1,6 +1,8 @@
 
 ## Problem Solving with DSA 🚀
 
+![DSA-photo](https://miro.medium.com/max/1400/1*sMryEXZVPKFjGNcfSzE8Mw.jpeg)
+
 Welcome to my problem solving journey✨
 The problems solved here have a large number of approaches, are well documented and refined to make reader learn through problems.
 
