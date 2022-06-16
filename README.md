@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://miro.medium.com/max/1400/1*sMryEXZVPKFjGNcfSzE8Mw.jpeg" alt="Logo" width=128 height=72>
+    <img src="https://miro.medium.com/max/1400/1*sMryEXZVPKFjGNcfSzE8Mw.jpeg" alt="Logo" width=256 height=144>
   </a>
 
   <h3 align="center">Problem Solving with DSA</h3>
