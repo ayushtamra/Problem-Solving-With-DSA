@@ -35,3 +35,61 @@ In most of the questions I have used a CPP code template which is competitive pr
 > Template Link: [myC++Template.md](./myC%2B%2BTemplate.md)
 
 Though there are many good templates for Competitive programming but at the very beginning you can practice with this!
+
+
+### Project Structure
+
+
+```text
+.
+├── Conceptual-Questions
+│   ├── Element-Frequency
+│   │   ├── Approach-1.cpp
+│   │   ├── Approach-2.cpp
+│   │   └── README.md
+│   └── README.md
+├── CP-Contests
+│   └── Codechef
+│       ├── Starters-37
+│       │   ├── BeatTheAvg.cpp
+│       │   ├── Infernos.cpp
+│       │   ├── LaptopRecommendation.cpp
+│       │   └── MaxOrMin.cpp
+│       └── Starters-43
+│           ├── DistinctPalindrome.cpp
+│           ├── DNAStorage.cpp
+│           └── JoiningDate.cpp
+├── c++ topics
+│   ├── references_in_struct,class.cpp
+│   └── Strings
+│       ├── StringFormatting.cpp
+│       ├── StringIO.cpp
+│       └── StringIO.md
+├── Data Structures
+│   ├── CreateLinkedList.cpp
+│   └── LinkedListInsertion.cpp
+├── input.txt
+├── Leetcode
+│   ├── 2181-MergeNodes
+│   │   ├── Approach1.cpp
+│   │   ├── Approach2-Iterative.cpp
+│   │   ├── Approach3-Recursive.cpp
+│   │   └── README.md
+│   ├── 2256-MinimumAverageDiff
+│   │   ├── Approach1-Brute.cpp
+│   │   ├── Approach2-Optimised.cpp
+│   │   └── README.md
+│   ├── add_two_nos.cpp
+│   └── mergeNodesInBetweenZeroes.cpp
+├── myC++Template.md
+├── output.txt
+├── PepcodingLevel2
+│   └── Arrays
+│       └── RangeAddition.cpp
+├── README.md
+├── recursion
+│   ├── fibseries.cpp
+│   └── PowFunction.cpp
+└── STL
+    └── vectors.cpp
+```
